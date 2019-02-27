@@ -9,4 +9,4 @@ The program will have 4 options:
 
 4: Generate a strong random pass (Mix of lower, upper case letters and numbers) (You will be asked to provide an integer that will be the length of the password >= 6)
 
-5: Premium pass generator (Integer provided by user should be greater than 8 and will have a mix of alphanumeric chars)
+5: Premium pass generator (Integer provided by user should >= 8 and will have a mix of alphanumeric chars)
