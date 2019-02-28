@@ -3,11 +3,11 @@ The program will have 6 options (all of the options will have a maximum of 16 ch
 
 1: Generate an easy pass to remember (You will provide a string and the program will change some letters (like i/I = 1 or o/O for a 0) and return the pass.
 
-2: Generate a weak random pass of lower case letters (You will be asked to provide an integer that will be the length of the password >= 6)
+2: Generate a weak random pass of lower case letters (You will be asked to provide an integer that will be the length of the password >= 8)
 
-3: Generate a intermediate random pass (Mix of lower and upper case letters) (You will be asked to provide an integer that will be the length of the password >= 6)
+3: Generate a intermediate random pass (Mix of lower and upper case letters) (You will be asked to provide an integer that will be the length of the password >= 8)
 
-4: Generate a strong random pass (Mix of lower, upper case letters and numbers) (You will be asked to provide an integer that will be the length of the password >= 6)
+4: Generate a strong random pass (Mix of lower, upper case letters and numbers) (You will be asked to provide an integer that will be the length of the password >= 8)
 
 Premium functions:
 
