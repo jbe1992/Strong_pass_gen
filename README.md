@@ -1,5 +1,5 @@
 # Strong_pass_gen
-The program will have 6 options:
+The program will have 6 options (all options have a maximum of 16 characters):
 
 1: Generate an easy pass to remember (You will provide a string and the program will change some letters (like i/I = 1 or o/O for a 0) and return the pass.
 
